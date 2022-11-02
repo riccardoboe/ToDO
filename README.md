@@ -1,4 +1,4 @@
-<h1> Pacman Exercise </h1>
+<h1> ToDo list </h1>
 
 
 ## Description
